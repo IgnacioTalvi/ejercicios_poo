@@ -97,8 +97,8 @@ class Azteca {
 let aztecaBebeNesquick = new Azteca(100, 80);
 console.log(aztecaBebeNesquick.drinkNesquick());
 
-let mayaBebeColaCao = new Azteca(80, 50);
-console.log(mayaBebeColaCao.drinkNesquick());
+let mayaBebeColaCao = new Maya(80, 50);
+console.log(mayaBebeColaCao.drinkColaCao());
 
 let nuevoMaya = new Warrior(90, 30);
 let nuevoAzteca = new Warrior(50, 40);
